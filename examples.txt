@@ -8,3 +8,18 @@
 
 > Ox-s, fish-s, cactus-s & mouse-s
 < Oxen, fish, cacti & mice
+
+
+# Past tense
+
+> The ox is-ed brown.
+< The ox was brown.
+
+> The ox-s is-s-ed brown.
+< The oxen were brown.
+
+> He like-ed pie.
+< He liked pie.
+
+
+#
