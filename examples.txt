@@ -1,0 +1,10 @@
+# Plural
+
+> The ox-s are brown.
+< The oxen are brown.
+
+> The ox-s is-s brown.
+< The oxen are brown.
+
+> Ox-s, fish-s, cactus-s & mouse-s
+< Oxen, fish, cacti & mice
